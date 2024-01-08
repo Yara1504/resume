@@ -8,7 +8,7 @@ body {
     justify-content: space-between;
 }
 .main-content{
-    padding-left: 88px;
+    padding-left: 80px;
     padding-top: 80px;
     padding-bottom: 80px;
     padding-right: 40px;
@@ -21,7 +21,7 @@ body {
     font-weight: 700;
     font-size: 45px;
     line-height: 55px;
-    margin-bottom: 8px;
+    margin-bottom: 12px;
 }
 .my-summary{
     font-style: normal;
@@ -55,11 +55,12 @@ padding-bottom: 40px;
     margin-bottom: 40px;
 }
 .contacts-item{
-font-style: normal;
+    font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 24px;
     color: #161D2A;
+    margin-bottom: 5px;
 }
 .contacts-link{
     font-style: normal;
@@ -77,6 +78,7 @@ font-style: normal;
     line-height: 24px;
     color: #161D2A;
     list-style: disc;
+    margin-bottom: 5px;
 }
 .skills-list{
     padding-left: 21px;
@@ -85,10 +87,10 @@ font-style: normal;
 .my-profession{
     font-style: normal;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 25px;
     line-height: 17px;
     color: #000000;
-    margin-bottom: 8px;
+    margin-bottom: 12px;
 }
 .main-content-title{
     font-style: normal;
@@ -99,7 +101,7 @@ font-style: normal;
     margin-bottom: 8px;
 }
 .projects-container{
-    margin-bottom: 44px;
+    margin-bottom: 40px;
 }
 .projects-item{
 font-style: normal;
@@ -108,6 +110,7 @@ font-style: normal;
     line-height: 24px;
     color: #000000;
     list-style: decimal;
+    margin-bottom: 8px;
 }
 .projects-link{
     font-style: normal;
@@ -141,7 +144,7 @@ font-style: normal;
     font-size: 16px;
     line-height: 20px;
     color: #000000;
-    margin-bottom: 12px;
+    margin-bottom: 8px;
 }
 .company-position-accent{
 color: #6b9f67;
@@ -161,12 +164,13 @@ color: #6b9f67;
     line-height: 24px;
     color: #595959;
     list-style: disc;
+    margin-bottom: 5px;
 }
 .company-duties-list{
     padding-left: 20PX;
 }
 .company-container{
-    margin-bottom: 8px;
+ margin-bottom: 12px;
 }
 .education-position{
         font-style: normal;
@@ -178,4 +182,11 @@ color: #6b9f67;
 }
 .link {
     font-style: non-decoration;
+}
+.link-ex {
+    display: flex;
+    gap: 24px;
+}
+.education {
+    margin-top: 40px;
 }
