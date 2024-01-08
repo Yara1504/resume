@@ -11,7 +11,6 @@ body {
     padding-left: 80px;
     padding-bottom: 80px;
     padding-right: 40px;
-    padding-top: 40px;
 }
 .about-me{
     margin-bottom: 40px;
@@ -32,7 +31,6 @@ body {
 }
 .sidebar {
 background: #d9f8d7;
-padding-top: 40px;
 padding-bottom: 40px;
 }
 .sidebar-content{
