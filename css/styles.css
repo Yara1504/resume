@@ -27,9 +27,9 @@ body {
 .my-summary{
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 15px;
     line-height: 24px;
-    color: #595959;
+    color: #4e4d4d;
 }
 .sidebar {
 background: #d9f8d7;
@@ -58,7 +58,7 @@ padding-top: 40px;
 .contacts-item{
     font-style: normal;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 15px;
     line-height: 24px;
     color: #161D2A;
     margin-bottom: 5px;
@@ -66,23 +66,23 @@ padding-top: 40px;
 .contacts-link{
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 15px;
     line-height: 24px;
-    color: #333a33;   
+    color: #4e4d4d;
 }
 .contacts-link-link {
         font-style: normal;
             font-weight: 400;
-            font-size: 14px;
+            font-size: 15px;
             line-height: 24px;
-            color: #333a33;
+            color: #4e4d4d;
             text-decoration: none;
             
 }
 .skills-item{
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 15px;
     line-height: 24px;
     color: #161D2A;
     list-style: disc;
@@ -114,7 +114,7 @@ padding-top: 40px;
 .projects-item{
 font-style: normal;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 15px;
     line-height: 24px;
     color: #000000;
     list-style: decimal;
@@ -132,14 +132,14 @@ font-style: normal;
 .projects-tech{
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 15px;
     line-height: 24px;
     color: #000000;
 }
 .project-t {
         font-style: normal;
             font-weight: 400;
-            font-size: 14px;
+            font-size: 15px;
             line-height: 24px;
             color: #000000;
 }
@@ -161,17 +161,17 @@ margin-bottom: 5px;
 .company-period{
     font-style: normal;
     font-weight: 400;
-    font-size: 12px;
+    font-size: 13px;
     line-height: 15px;
-    color: #5f5f5f;
+    color: #4e4d4d;
     margin-bottom: 8px;
 }
 .company-duties-item{
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 15px;
     line-height: 24px;
-    color: #595959;
+    color: #4e4d4d;
     list-style: disc;
     margin-bottom: 5px;
 }
@@ -184,7 +184,7 @@ margin-bottom: 5px;
 .education-position{
         font-style: normal;
         font-weight: 700;
-        font-size: 14px;
+        font-size: 15px;
         line-height: 17px;
         color: #000000;
         margin-bottom: 8px;
